@@ -5,6 +5,6 @@ import org.junit.Test;
 public class testClass {
     @Test
     public void getEmailTest() {
-        System.out.println("Hello world!");
+        System.out.println("Hello worldasd!");
     }
 }
