@@ -13,28 +13,10 @@ This software is intended for students who would like an all-in-one organization
 *Students can open their gradebook and see how they are doing in each class
 *Teachers assign work through sakai, which show up in the students assignment list
 
-### [Class Diagram]()
+### [Class Diagram](https://drive.google.com/file/d/1ptCs7qXZWN4dSPfqtQUgzBzX6XIl-o91/view?usp=sharing)
 
 ### Sequence Diagrams
 * [New Note](https://drive.google.com/file/d/19E_xkqQs1gOnadYpySpmjDFNo33XB3iI/view?usp=sharing)
-* [Check Balance](https://drive.google.com/file/d/1-K2I0kUsWXu_mvz0b5ZzTqogmSnI2NKm/view?usp=sharing)
+* [Check Assignments](https://drive.google.com/file/d/1nPiFlQHH0Nuc9lfj3f8c5pO3s207jpxM/view?usp=sharing)
 
-
-## Implemented
-* Withdraw
-* Deposit
-* Check Balance
-* Transfer
-* Create Account
-* Close Account
-
-## Partially Implemented
-*
-
-## No Implementation
-* Freeze Account
-* Unfreeze Account
-* Check Suspicious Activity
-* Get Total Bank Balance
-* Login
-* Transaction History
+### [State Diagram](https://drive.google.com/file/d/1NhxlNTLmc5zMIliwPEXSfaMXIFzKYZjf/view?usp=sharing)
