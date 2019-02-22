@@ -28,3 +28,8 @@ This software is intended for students who would like an all-in-one organization
   * This pattern is used for accessing the lists of events and notes, from the planner and notebook classes. The two classes will store the data in an organized way, allowing the UI to iterate through easily.
 * Decorator Pattern
   * This pattern was considered to be used to decorate the event class. It would add the functionality of choosing between a "due date" and an "event date". However, I believe it would be easier to make this destinction within the event class itself. 
+  
+### Minimal Viable Product
+The MVP of this project is simply allowing a user to add, remove and view assignments that they added manually. It requires StudentUI, Planner, and Event. 
+
+
