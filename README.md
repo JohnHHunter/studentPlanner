@@ -1,6 +1,7 @@
 # studentPlanner
-Notebook
+
 This project will be a notebook application with several facets of functionality. The first is a daily planner, which the user can add events to. The events can be searched through by day, and the system will give the user a heads up for upcoming events. The planner will also be linked to sakai, automatically creating events based on when assignments are due. The application will also have a notepad section, in which users can freely write ideas and thoughts. After writing, the user will save the page, which will be stored and sorted by date or title of page. In addition to theses abilities, the application could also implement an address book and password keeper. Users will have to login to access their data, and multiple accounts can be used on the same computer. 
+
 This software is intended for students who would like an all-in-one organization system for their schoolwork. Currently, in order to get a feel for the amount of work assigned at a time, a student has to search through multiple tabs in sakai. Having a centralized digital planner that is connected to Sakai allows a student to manage their work seamlessly, while also adding events that are not assigned through sakai manually. The software will also feature a writing pad, in which students can write notes freely, while the program saves the notes in a orderly fashion. The notes can be filtered by date, or by class. 
 
 # Student Planner
